@@ -1,0 +1,82 @@
+body, h1, h2, p, ul, li, form, label, textarea, input {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+        background-color: #2c02282f;
+        
+
+}
+
+header {
+    background-color: #610d64b7;
+    text-align: center; 
+    padding: 20px 0; 
+}
+
+header img {
+    width: 100%; 
+    margin-bottom: 5px; 
+}
+
+header h1 {
+    font-size: 2em; 
+    color: #3a053a; 
+}
+
+.Mas quem somos{
+    padding: 20px; 
+    background-color: #3e0574;
+    text-align: center; 
+}
+
+.disco {
+    padding: 20px;
+    background-color: #920eeb; 
+}
+
+.albun img {
+    width: 150px;
+    margin-right: 10px;
+    text-align: center; 
+}
+
+
+.turne {
+    padding: 20px;
+    background-color: #5e0856;
+    text-align: center; 
+}
+
+.turne ul li {
+    list-style-type: none; 
+    margin-bottom: 5px;
+    text-align: center; 
+}
+
+.contato {
+    padding: 20px;
+    background-color: #31041b;
+    text-align: center; 
+}
+
+.contato form {
+    display: flex;
+    flex-direction: column; 
+    text-align: center; 
+}
+
+.contato label, .contato input, .contato textarea {
+    margin-bottom: 10px; 
+}
+
+footer {
+    background-color: #333;
+    color: #FFF; 
+    padding: 10px 0;
+    text-align: center;
+}
+
+footer a {
+    color: #FFF; 
+    margin: 0 5px; 
+}
